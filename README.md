@@ -1,5 +1,7 @@
 👋 Hi, I’m @vactomas
+
 👀 I’m interested in Technology and Spaceflight.
+
 🌱 I’m currently learning Python.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
